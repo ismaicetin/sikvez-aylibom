@@ -1,5 +1,13 @@
 mongodump ve mongorestore için ortam degişkenine path olarak eklenecek :C:\Program Files\MongoDB\Server\4.2\bin
 
+    "_id" : ObjectId("653fda4a6f15752ee6e58ec6"),
+    "active" : false,
+    "password" : "1q2w3e4r",
+    "createDate" : ISODate("2023-10-09T20:07:11.714Z"),
+    "tc" : "11111111111",
+    "name" : "ismail",
+    "surname" : "çetin"
+
 Download
 
 # Create a folder under the drive root
