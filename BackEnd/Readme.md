@@ -21,7 +21,7 @@ Configure
 
 # Create the runner and start the configuration experience
 
-$ ./config.cmd --url https://github.com/ismaicetin/sikvez-aylibom --token ALNTGS3FIFAXMYDQBABDIA3FIKOMQ# Run it!
+./config.cmd --url https://github.com/ismaicetin/sikvez-aylibom --token ALNTGSZKX6TMKQAM3PHE5S3FIY62I
 $ ./run.cmd
 
 Using your self-hosted runner
